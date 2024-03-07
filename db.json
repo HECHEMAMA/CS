@@ -1,0 +1,14 @@
+{
+    "host":"localhost",
+    "username":"root",
+    "password":"",
+    "database":"cs",
+    "showErrors":true,
+
+    "structure":{
+    },
+    
+    "finally": [
+       
+    ]
+}
