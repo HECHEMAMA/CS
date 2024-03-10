@@ -34,7 +34,7 @@ class DB {
     private ?PDOStatement $result = null;
 
     /**
-     * unica forma para obtener una instancia de DB, sigiendo el patron Singleton.
+     * unica forma para obtener una instancia de DB, siguiendo el patron Singleton.
      * ni se te ocurra hacer un `new DB` que no funcionara, el constructor es privado intencionalmente.
      *
      * @return DB
